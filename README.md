@@ -1,34 +1,3 @@
-Overview:
-
-This repository demonstrates the usage of essential Python libraries: Pandas, TextBlob, Seaborn, Matplotlib, and Streamlit. These libraries are vital for data manipulation, visualization, natural language processing, and building interactive web applications.
-
-Libraries:
-	1. Pandas
-	Pandas is a powerful library for data manipulation and analysis. It offers data structures like 		 DataFrame and Series to handle structured data effectively.
-	
-Key Features:
-Data cleaning and preprocessing
-Handling missing data
-Grouping and aggregations
-Data wrangling with ease
-
-2. TextBlob
-TextBlob is a simple NLP library built on top of NLTK and Pattern. It provides tools for text processing and analysis, including sentiment analysis, tokenization, and translation.
-
-Key Features:
-Sentiment analysis (polarity and subjectivity)
-Tokenization and word inflection
-Spelling correction
-
-3. Seaborn
-Seaborn is a data visualization library based on Matplotlib, providing a high-level interface for creating attractive and informative statistical graphics.
-
-Key Features:
-Heatmaps, pair plots, and violin plots
-Integration with Pandas DataFrames
-Built-in themes for plots
-
-
 README.md
 Overview
 This repository demonstrates the usage of essential Python libraries: Pandas, TextBlob, Seaborn, Matplotlib, and Streamlit. These libraries are vital for data manipulation, visualization, natural language processing, and building interactive web applications.
