@@ -44,3 +44,7 @@ st.write(f"Heart Rate: {heart_rate}")
 st.write(f"Weight: {weight}")
 st.write(f"Glucose: {glucose}")
 st.write(f"Calories Burned: {calories}")
+
+
+
+# To run this code, use : python3 -m streamlit run smart_health_monitoring_app.py (or) streamlit run smart_health_monitoring_app.py
