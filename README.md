@@ -1,5 +1,3 @@
-README.md
-Overview
 This repository demonstrates the usage of essential Python libraries: Pandas, TextBlob, Seaborn, Matplotlib, and Streamlit. These libraries are vital for data manipulation, visualization, natural language processing, and building interactive web applications.
 
 Libraries:
