@@ -52,13 +52,13 @@ Classification, regression, and clustering algorithms
 Tools for model selection, preprocessing, and evaluation
 Built-in datasets for experiments and learning
 
-Contributions
+Contributions:
 Feel free to fork this repository and submit pull requests for improvements or additional examples.
 
-License
+License:
 This project is licensed under the MIT License.
 
-Contact
+Contact:
 For any queries or feedback, please reach out at srivathsa180104@gmail.com
 
 
